@@ -181,16 +181,6 @@ A machine-learning recommendation system that maps a user's natural-language moo
 
 ---
 
-## ❤️ Heart Disease Prediction
-
-<a href="https://github.com/mitims999/Heart-Disease-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mitims999&repo=Heart-Disease-Prediction&theme=tokyonight&hide_border=true" />
-</a>
-
-Machine learning system for predicting the likelihood of heart disease using clinical and lifestyle features, with preprocessing, feature selection, model training and a Streamlit prediction interface.
-
----
-
 ## 💰 Insurance Premium Prediction
 
 <a href="https://github.com/mitims999/Insurance-Premium-Prediction-ML">
